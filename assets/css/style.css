@@ -246,5 +246,14 @@ a {
 }
 
 @media screen and (max-width: 640px) {
+	header {
+		position: static;
+	}
 
+	.name {
+		width: 100%;
+		margin: 0 auto;
+		float: left;
+		text-align: center;
+	}
 }
