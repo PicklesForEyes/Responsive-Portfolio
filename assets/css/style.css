@@ -16,7 +16,6 @@ header {
 	border-bottom-style: solid;
 	border-bottom-width: 2px;
 	border-bottom-color: #ccc;
-	overflow: hidden;
 }
 
 h1, h2, h3 {
@@ -236,4 +235,16 @@ textarea {
 
 a {
 	text-decoration: none; 
+}
+
+@media screen and (max-width: 980px) {
+
+}
+
+@media screen and (max-width: 768px) {
+
+}
+
+@media screen and (max-width: 640px) {
+
 }
