@@ -279,6 +279,11 @@ a {
 	.headwrap {
 		width: 100%;
 	}
+
+	.profile {
+		width: 80%;
+		height: inherit;
+	}
 }
 
 @media screen and (max-width: 768px) {
@@ -302,6 +307,11 @@ a {
 
 	ul {
 		margin-right: 10%;
+	}
+
+	.profile {
+		width: 200px;
+		height: inherit;
 	}
 }
 
@@ -353,6 +363,11 @@ a {
 
 	.portImg {
 		width: 100%;
+		height: inherit;
+	}
+
+	.profile {
+		width: 80%;
 		height: inherit;
 	}
 }
