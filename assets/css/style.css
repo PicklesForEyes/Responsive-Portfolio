@@ -275,6 +275,10 @@ a {
 	li {
 		padding: 23px 10px;
 	}
+
+	.headwrap {
+		width: 100%;
+	}
 }
 
 @media screen and (max-width: 768px) {
