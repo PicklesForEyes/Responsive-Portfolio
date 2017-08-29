@@ -362,8 +362,12 @@ a {
 	}
 
 	.portImg {
-		width: 100%;
+		width: 80%;
 		height: inherit;
+	}
+
+	.label {
+		width: 70%;
 	}
 
 	.profile {
