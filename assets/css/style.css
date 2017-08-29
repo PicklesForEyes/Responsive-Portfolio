@@ -250,6 +250,15 @@ a {
 	.connectbox {
 		width: 35%;
 	}
+
+	.portImg {
+		width: 100%;
+		height: inherit;
+	}
+
+	.label {
+		width: 90%;
+	}
 }
 
 @media screen and (max-width: 768px) {
