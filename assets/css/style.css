@@ -259,18 +259,21 @@ a {
 	}
 
 	.navbar {
-		position: static;
+		position: relative;
 		margin-top: 30px;
 		width: 100%;
+		display: table;
 	}
 
 	li {
 		float: unset;
-		display: inline-block;
+		display: table-cell;
+		text-align: center;
 	}
 
 	li a {
 		padding-top: 0;
+		display: block;
 	}
 
 	.container {
