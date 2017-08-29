@@ -269,6 +269,8 @@ a {
 		float: unset;
 		display: table-cell;
 		text-align: center;
+		font-size: 12pt;
+		padding: 10px; 
 	}
 
 	li a {
