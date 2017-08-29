@@ -167,8 +167,8 @@ li a {
 
 input, textarea {
 	float: left;
-	width: 95%;
-	margin: 10px;
+	width: 85%;
+	margin: 5px 5%;
 	border-style: solid;
 	border-width: 1px;
 	border-color: #ccc;
