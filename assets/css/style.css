@@ -51,7 +51,7 @@ ul, p {
 ul {
 	list-style-type: none;
 	margin: 0 auto;
-	padding: 0 auto;
+	padding: 0;
 	overflow: hidden;
 	background-color: #fff;
 	margin-right: 25%;
@@ -255,5 +255,23 @@ a {
 		margin: 0 auto;
 		float: left;
 		text-align: center;
+	}
+
+	.navbar {
+		position: relative;
+		margin-top: 30px;
+		width: 100%;
+	}
+
+	.container {
+		width: 80%;
+	}
+
+	.maincontent {
+		width: 95%;
+	}
+
+	.connectbox {
+		width: 95%;
 	}
 }
