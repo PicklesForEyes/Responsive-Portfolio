@@ -238,7 +238,18 @@ a {
 }
 
 @media screen and (max-width: 980px) {
+	.container {
+		width: 90%;
+	}
 
+	.maincontent {
+		width: 60%;
+		margin-right: 2%;
+	}
+
+	.connectbox {
+		width: 35%;
+	}
 }
 
 @media screen and (max-width: 768px) {
