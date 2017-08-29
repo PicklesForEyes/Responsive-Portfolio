@@ -255,12 +255,22 @@ a {
 		margin: 0 auto;
 		float: left;
 		text-align: center;
+		position: relative;
 	}
 
 	.navbar {
-		position: relative;
+		position: static;
 		margin-top: 30px;
 		width: 100%;
+	}
+
+	li {
+		float: unset;
+		display: inline-block;
+	}
+
+	li a {
+		padding-top: 0;
 	}
 
 	.container {
