@@ -35,6 +35,12 @@ ul, p {
 	font-family: 'Ariel', "Helvetica Neue", Helvetica, sans-serif;
 }
 
+.headwrap {
+	width: 1024px;
+	overflow: hidden;
+	margin: 0 auto;
+}
+
 .name {
 	position: absolute;
 	display: block;
@@ -42,7 +48,6 @@ ul, p {
 	padding: 13.75px;
 	width: 160px;
 	color: #fff;
-	margin-left: 23%;
 	float: left;
 	padding: 18px;
 	overflow: hidden;
@@ -54,7 +59,7 @@ ul {
 	padding: 0;
 	overflow: hidden;
 	background-color: #fff;
-	margin-right: 25%;
+	margin-right: 5%;
 }
 
 li {
