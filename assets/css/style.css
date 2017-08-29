@@ -284,6 +284,10 @@ a {
 		width: 80%;
 		height: inherit;
 	}
+
+	.connectbox img {
+		margin-left: 5%;
+	}
 }
 
 @media screen and (max-width: 768px) {
