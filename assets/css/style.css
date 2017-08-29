@@ -253,6 +253,15 @@ a {
 
 	.connectbox {
 		width: 95%;
+		margin-bottom: 10px;
+	}
+
+	.name {
+		margin-left: 10%
+	}
+
+	ul {
+		margin-right: 10%;
 	}
 }
 
